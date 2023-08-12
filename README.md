@@ -1,1 +1,2 @@
-Small project to put some knowledge of html into practice
+Small project to put my basic knowledge of html into practice.
+
