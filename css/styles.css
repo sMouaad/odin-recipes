@@ -23,7 +23,10 @@ img {
 body {
     text-align: center;
     background-color:rgb(45, 45, 45);
+    font-family: Helvetica, Arial, sans-serif;
     color: white;
+}
+h1, h3 {
     font-family: Norse, Helvetica, sans-serif;
     letter-spacing: 1px;
     word-spacing: 3px;
