@@ -9,6 +9,7 @@ img {
 }
 
 body {
+    text-align: center;
     background-color:rgb(45, 45, 45);
     color: white;
     font-family: Helvetica, Arial, sans-serif;
