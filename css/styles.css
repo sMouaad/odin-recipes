@@ -4,7 +4,7 @@
     font-weight: normal;
 }
 @font-face {
-    font-family: "Norse";
+    font-family: "Norse",;
     src: url(../fonts/Norsebold.otf);
     font-weight: bold;
 }
@@ -24,7 +24,7 @@ body {
     text-align: center;
     background-color:rgb(45, 45, 45);
     color: white;
-    font-family: Norse;
+    font-family: Norse, Helvetica, sans-serif;
     letter-spacing: 1px;
     word-spacing: 3px;
 }
