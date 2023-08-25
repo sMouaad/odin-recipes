@@ -16,6 +16,7 @@ img {
 }
 
 .viking-eating {
+    border : solid 5px black;
     width : auto;
     height : auto;
 }
