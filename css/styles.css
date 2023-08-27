@@ -20,10 +20,11 @@ img {
 }
 .viking-eating {
     border : solid 5px black;
-    top: 60%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     width:auto;
+    height:200%;
     position:fixed;
     z-index: -1;
 }
@@ -38,7 +39,7 @@ img {
 }
   
 .center.title{
-    margin-bottom: 600px;
+    margin-bottom: 650px;
 }
 body {
     background-color:rgb(45, 45, 45);
@@ -64,8 +65,8 @@ a {
 .bg-lightgrey{
     background-color:rgb(45, 45, 45);
     margin-bottom:-8px;
-    margin-left:-8px;
     margin-right:-8px;
+    margin-left:-8px;
 
 }
 .bg-lightgrey p{
